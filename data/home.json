@@ -1,0 +1,67 @@
+{
+  "hero": {
+    "heading": "wood meets art",
+    "description": "Sustainable and ethically sourced, KANDINSKY offers engineered timber for walls, ceilings, stairs, and flooring.",
+    "img": {
+      "src": "/images/home/hero_image_1.jpg",
+      "alt": "",
+      "width": "500",
+      "height": "500"
+    },
+    "link": {
+      "href": "#"
+    }
+  },
+
+  "application": {
+    "certSvgs": [
+      {
+        "src": "/images/home/SGBC.svg",
+        "alt": ""
+      },
+      {
+        "src": "/images/home/STAT.svg",
+        "alt": ""
+      },
+      {
+        "src": "/images/home/TUV.svg",
+        "alt": ""
+      }
+    ],
+
+    "services": [
+      {
+        "title": "ceiling",
+        "description": "Transform your space with our professional wood ceiling installation services. Custom design with a range of wood types and finishes available.",
+        "img": {
+          "src": "",
+          "alt": ""
+        }
+      },
+      {
+        "title": "floor",
+        "description": "Our wood floor installation service offers a custom design with a variety of wood types and finishes for a long-lasting flooring solution.",
+        "img": {
+          "src": "",
+          "alt": ""
+        }
+      },
+      {
+        "title": "stair",
+        "description": "Our high-quality wooden stair installation services add beauty and function to your space, with safety and durability in mind.",
+        "img": {
+          "src": "",
+          "alt": ""
+        }
+      },
+      {
+        "title": "wall",
+        "description": "Add natural beauty and warmth to any space with our wood wall installation services. Custom design with a range of wood types and finishes available.",
+        "img": {
+          "src": "",
+          "alt": ""
+        }
+      }
+    ]
+  }
+}

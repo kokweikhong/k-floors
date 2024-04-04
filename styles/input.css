@@ -1,0 +1,150 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .btn-primary-fill {
+    @apply text-[16px] text-[#fff] bg-primary px-[32px] py-[24px] uppercase rounded-[40px] font-semibold tracking-[2px];
+  }
+  [role=alert] {
+    @apply text-red-500 italic text-[14px] font-medium;
+  }
+}
+
+body {
+  font-family: var(--font-inter);
+}
+
+h1,
+h2,
+h3 {
+  font-family: var(--font-raleway);
+}
+
+h1 {
+  font-size: 1.802rem;
+  font-weight: 900;
+}
+
+h2 {
+  font-size: 1.602rem;
+  font-weight: 800;
+}
+
+h3 {
+  font-size: 1.424rem;
+  font-weight: 700;
+}
+
+h4 {
+  font-size: 1.266rem;
+  font-weight: 600;
+}
+
+h5 {
+  font-size: 1.125rem;
+  font-weight: 500;
+}
+
+@media (min-width: 768px) {
+  h1 {
+    font-size: 2.488rem;
+  }
+
+  h2 {
+    font-size: 2.074rem;
+  }
+
+  h3 {
+    font-size: 1.728rem;
+  }
+
+  h4 {
+    font-size: 1.44rem;
+  }
+
+  h5 {
+    font-size: 1.2rem;
+  }
+}
+
+@media (min-width: 1024px) {
+  /* h1 {font-size: 11.089rem;} */
+
+  h1 {
+    font-size: 3.052rem;
+  }
+
+  h2 {
+    font-size: 2.441rem;
+  }
+
+  h3 {
+    font-size: 1.953rem;
+  }
+
+  h4 {
+    font-size: 1.563rem;
+  }
+
+  h5 {
+    font-size: 1.25rem;
+  }
+}
+
+.project-references-slider .slick-dots {
+  bottom: -30px;
+}
+
+.project-references-slider .slick-dots li {
+  margin: 0 1px !important;
+  width: 20px;
+  height: 20px;
+}
+
+.project-references-slider .slick-dots li button {
+  padding: 0;
+}
+
+.project-references-slider .slick-dots li button:before {
+  font-size: 15px;
+}
+
+.product-slider .slick-dots {
+  bottom: 10px !important;
+}
+
+.product-slider .slick-dots li {
+  margin: 0 !important;
+}
+
+/* .product-slider .slick-dots li button:before {
+  color: #fff !important;
+}
+
+.product-slider .slick-active {
+  color: #000 !important;
+} */
+
+.testimonial-references-slider .slick-track,
+.project-references-slider .slick-track,
+.product-slider .slick-track {
+  display: flex !important;
+}
+
+.testimonial-references-slider .slick-slide,
+.project-references-slider .slick-slide,
+.product-slider .slick-slide {
+  height: inherit !important;
+}
+
+.project-references-slider .slick-slide > div,
+.testimonial-references-slider .slick-slide > div {
+  height: 100% !important;
+  max-height: 700px !important;
+}
+
+.product-slider .slick-slide > div {
+  height: 100% !important;
+  max-height: 550px !important;
+}

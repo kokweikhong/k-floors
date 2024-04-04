@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Channel KLCC",
+    "material": "Material : Kandinsky (Kildare)",
+    "contractor": "Grandwork interior (Contractor), Channel (Architect)",
+    "application": "Flooring",
+    "images": {
+      "one": {
+        "src": "/projects/KLCC/KLCC-4.jpeg",
+        "alt": ""
+      },
+      "two": {
+        "src": "/projects/KLCC/KLCC-2.png",
+        "alt": ""
+      },
+      "three": {
+        "src": "/projects/KLCC/KLCC-3.jpg",
+        "alt": ""
+      },
+      "four": {
+        "src": "/projects/KLCC/KLCC-1.jpg",
+        "alt": ""
+      }
+    }
+  },
+  {
+    "name": "PUB Waterhub",
+    "material": "Material : Kandinsky (Bartek)",
+    "contractor": "Wee HurConstruction Pte Ltd (Contractor), Forum Architects (Architect)",
+    "application": "Timber Wall",
+    "images": {
+      "one": {
+        "src": "/projects/PUB/PUB-2.jpeg",
+        "alt": ""
+      },
+      "two": {
+        "src": "/projects/PUB/PUB-3.jpg",
+        "alt": ""
+      },
+      "three": {
+        "src": "/projects/PUB/PUB-4.jpg",
+        "alt": ""
+      },
+      "four": {
+        "src": "/projects/PUB/PUB-1.jpg",
+        "alt": ""
+      }
+    }
+  },
+  {
+    "name": "The Working Capitol @ Robinson",
+    "material": "Material : Kandinsky (Zerno)",
+    "contractor": "Tarkus Interiors Pte Ltd (Contractor), Hassel (Architect)",
+    "application": "Flooring",
+    "images": {
+      "one": {
+        "src": "/projects/Working Captiol/Working Captiol-2.jpeg",
+        "alt": ""
+      },
+      "two": {
+        "src": "/projects/Working Captiol/Working Captiol-3.jpeg",
+        "alt": ""
+      },
+      "three": {
+        "src": "/projects/Working Captiol/Working Captiol-4.jpeg",
+        "alt": ""
+      },
+      "four": {
+        "src": "/projects/Working Captiol/Working Captiol-1.jpeg",
+        "alt": ""
+      }
+    }
+  }
+]

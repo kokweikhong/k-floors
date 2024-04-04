@@ -1,0 +1,85 @@
+{
+  "about": [
+    {
+      "title": "Kaetee JKT",
+      "readmore": "https://goo.gl/maps/hm5bUQHTCmwjuoVz5",
+      "desc": "We contracted Calvary to supply and install all our timber requirements from the engineered wood flooring, living/dining room ceiling wood cladding, car porch ceiling cladding with Accoya wood and main gate Accoya wood panels.  The end results were ...",
+      "icon": {
+        "src": "/icons/Google-color.svg",
+        "alt": "google review"
+      },
+      "images": {
+        "one": {
+          "src": "/testimonials/Kaetee JKT-Second Nature/Kaetee JKT-4.jpeg",
+          "alt": ""
+        },
+        "two": {
+          "src": "/testimonials/Kaetee JKT-Second Nature/Kaetee JKT-2.jpeg",
+          "alt": ""
+        },
+        "three": {
+          "src": "/testimonials/Kaetee JKT-Second Nature/Kaetee JKT-3.jpeg",
+          "alt": ""
+        },
+        "four": {
+          "src": "/testimonials/Kaetee JKT-Second Nature/Kaetee JKT-1.jpeg",
+          "alt": ""
+        }
+      }
+    },
+    {
+      "title": "Mothership Article",
+      "readmore": "https://mothership.sg/2022/08/calvary-carpentry/",
+      "desc": "August 17, 2022 -  Calvary Carpentry, a Singapore-based carpentry firm. The company is praised for its commitment to quality workmanship, customer service, and sustainability, with a focus on using eco-friendly materials and processes to appeal to ...",
+      "icon": {
+        "src": "/icons/Testimonal Mothership.svg",
+        "alt": "mothership"
+      },
+      "images": {
+        "one": {
+          "src": "/testimonials/Mothership testimonial/Chestnut observation tower.jpg",
+          "alt": ""
+        },
+        "two": {
+          "src": "/testimonials/Mothership testimonial/LFD02425.jpg",
+          "alt": ""
+        },
+        "three": {
+          "src": "/testimonials/Mothership testimonial/IMG_5929-1024x683.jpg",
+          "alt": ""
+        },
+        "four": {
+          "src": "/testimonials/Mothership testimonial/LFD02615 2.jpg",
+          "alt": ""
+        }
+      }
+    },
+    {
+      "title": "shawnnswan",
+      "readmore": "https://www.instagram.com/p/CpmtC9SSs55/?utm_source=ig_web_copy_link",
+      "desc": "Contacted Calvary Carpentry to work out the engineered timber floorings for bedrooms. Vanessa and team were well organised & responsive, from providing stained floor samples & ensuring ...",
+      "icon": {
+        "src": "/icons/Instagram-green.svg",
+        "alt": "instagram review"
+      },
+      "images": {
+        "one": {
+          "src": "/testimonials/Testimonial_Shawn_MM Apartment/shawn-3.jpg",
+          "alt": ""
+        },
+        "two": {
+          "src": "/testimonials/Testimonial_Shawn_MM Apartment/shawn.jpg",
+          "alt": ""
+        },
+        "three": {
+          "src": "/testimonials/Testimonial_Shawn_MM Apartment/shawn-3.jpg",
+          "alt": ""
+        },
+        "four": {
+          "src": "/testimonials/Testimonial_Shawn_MM Apartment/shawn-2.jpg",
+          "alt": ""
+        }
+      }
+    }
+  ]
+}
